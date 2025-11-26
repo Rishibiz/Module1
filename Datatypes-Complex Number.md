@@ -20,7 +20,6 @@ print(x)
 print(x.real)
 print(x.imag)
 ```
-
 ## Output
 ![image](https://github.com/user-attachments/assets/cfb21d8d-f166-463c-9763-1553bb104556)
 
