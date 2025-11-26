@@ -20,4 +20,4 @@ print(b)
 
 
 ## Result
-Thus,the Python program that prints the characters `'T'` and `'a'` using character literals is created successfully.
+Thus,the Python program that prints the characters `'T'` and `'a'` using character literals is created successfull
